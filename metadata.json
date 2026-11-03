@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance Pro",
+  "description": "Professional Android Attendance Management Application with employee tracking, salary calculations, PDF/Excel reports, PIN security, and APK download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
